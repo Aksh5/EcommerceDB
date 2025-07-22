@@ -15,7 +15,7 @@ This project demonstrates real-world SQL skills by analyzing an e-commerce datas
 - What is the total revenue?
 - Which are the best-selling products?
 - Which countries generate the most revenue?
-- How many repeat customers are there?
+- What is the daily sales trend?
 
 ## 🛠️ Tools Used
 
