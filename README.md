@@ -2,7 +2,7 @@
 
 This project demonstrates real-world SQL skills by analyzing an e-commerce dataset using SQL Server. It showcases business insights through 15 polished SQL queries.
 
---
+----
 
 ## 📦 Dataset
 
@@ -12,7 +12,7 @@ This project demonstrates real-world SQL skills by analyzing an e-commerce datas
   - Customer and product details
   - Sales and country info
 
---
+----
 
 ## 🧠 Key Business Questions Answered
 
@@ -21,7 +21,7 @@ This project demonstrates real-world SQL skills by analyzing an e-commerce datas
 - Which countries generate the most revenue?
 - What is the daily sales trend?
 
---
+----
 
 ## 🛠️ Tools Used
 
@@ -29,7 +29,7 @@ This project demonstrates real-world SQL skills by analyzing an e-commerce datas
 - SQL
 - Git & GitHub
 
---
+----
 
 ## 📊 Example Queries
 
@@ -41,4 +41,4 @@ SELECT
 FROM 
     ecommerce_data$;
 
---
+----
